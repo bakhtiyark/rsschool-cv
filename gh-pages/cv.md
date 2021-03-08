@@ -8,7 +8,7 @@ Mob.: +7 776 007 67 23 \
 email: bakhtiyark234@gmail.com \
 
 > # About me
-Jack of all trades and master of none, i'm on my way to rectify this by taking programming real serious.🤔
+Jack of all trades and master of none, i'm on my way to rectify this by taking programming _real serious_.🤔 
 
 > # Skills
 - Rudimentary Python 
